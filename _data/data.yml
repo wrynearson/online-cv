@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Will Rynearson
@@ -47,7 +47,7 @@ career-profile:
     summary: |
       Seeking impactful roles which blend policy, science, management and communicationin order to solve problems within the SDG framework.
 education:
-    - degree: Master of Science in Innovation, Human Development and Sustainability
+    - degree: Master of Science - Innovation, Human Development and Sustainability
       university: University of Geneva
       time: 2018 - 2021
       details: 
@@ -65,7 +65,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Mechanical Engineering
+    - degree: Bachelor of Science - Mechanical Engineering
       university: Montana State University
       time: 2011-2015
 experiences:
@@ -108,9 +108,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Dam Plastics
+        link: https://www.twitter.com/dam_plastics
+        tagline: Dam Plastics attempts to measure and monitor the flow of plastic through riverine systems by linking dam operators and citizen scientists through a procedural toolkit to create standardized, actionable data about riverine plastic waste.
 
       - title: DevStudio
         link: "#"
@@ -154,23 +154,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Adobe Photoshop
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Microsoft Office
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 5%
 
-      - name: Sketch & Photoshop
-        level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
