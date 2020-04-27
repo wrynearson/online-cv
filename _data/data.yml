@@ -22,7 +22,8 @@ sidebar:
     twitter: '@willrynearson'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 112797566-will-rynearson # Number-Username, e.g. 123456-alandoe
+    goodwall: will-rynearson-def0
 
     languages:
       - idiom: English
@@ -33,10 +34,10 @@ sidebar:
 
     interests:
       - item: Photography
-        link: wrynearson.github.io
+        link: https://wrynearson.github.io
 
       - item: Running
-        link: www.strava.com/athletes/7675829
+        link: https://www.strava.com/athletes/7675829
 
       - item: Travel
         link:
@@ -49,7 +50,7 @@ education:
     - degree: Master of Science in Innovation, Human Development and Sustainability
       university: University of Geneva
       time: 2018 - 2021
-      details:
+      details: 
         Dual degree program on the UN Sustainable Development Goals (SDGs)
           - Bullet point
           - Bullet point
@@ -64,6 +65,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: BSc in Mechanical Engineering
+      university: Montana State University
+      time: 2011-2015
 experiences:
     - role: Junior Project Officer - AI for Good Global Summit
       time: 2020 - Present
