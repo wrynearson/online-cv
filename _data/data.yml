@@ -33,10 +33,10 @@ sidebar:
 
     interests:
       - item: Photography
-        link:
+        link: wrynearson.github.io
 
       - item: Running
-        link:
+        link: www.strava.com/athletes/7675829
 
       - item: Travel
         link:
@@ -49,7 +49,7 @@ education:
     - degree: Master of Science in Innovation, Human Development and Sustainability
       university: University of Geneva
       time: 2018 - 2021
-      details: |
+      details:
         Dual degree program on the UN Sustainable Development Goals (SDGs)
           - Bullet point
           - Bullet point
@@ -65,41 +65,36 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Junior Project Officer - AI for Good Global Summit
+      time: 2020 - Present
+      company: International Telecommunication Union (ITU), Geneva
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Connecting AI Innovators with problem owners to solve global challenges.
+        https://aiforgood.itu.int/
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Deputy Manager
+      time: 2019 - Present
+      company: SDG Solution Space, Geneva
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Manages multiple facets of the SDG Solution Space, a multi-use, 
+        multi-disciplinary space, where members of the public sector, 
+        private sector, academia, students and other citizens can 
+        collaborate and innovate solutions to problems outlined in the 
+        Sustainable Development Goals. 
+        Responsibilities include helping collaborators book the space, 
+        organizing events and managing the space's social media.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Project Assistant - Climate and Energy Program
+      time: 2019 - 2019
+      company: Greenpeace, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Analyzed China's international development projects with 
+        detrimental environmental and social impacts, such as 
+        coal-powered energy infrastructure, in order to provide policy 
+        recommendations on how to both help the environment and the 
+        local and Chinese economy.
           - Bullet point
           - Bullet point
 projects:
