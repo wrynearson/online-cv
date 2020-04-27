@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Will Rynearson
@@ -52,8 +52,6 @@ education:
       time: 2018 - 2021
       details: 
         Dual degree program on the UN Sustainable Development Goals (SDGs)
-          - Bullet point
-          - Bullet point
     - degree: Master of Public Policy - Sustainable Development Goals (SDGs)
       university: Tsinghua University
       time: 2018-2021
@@ -63,8 +61,6 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: Bachelor of Science - Mechanical Engineering
       university: Montana State University
       time: 2011-2015
@@ -74,9 +70,7 @@ experiences:
       company: International Telecommunication Union (ITU), Geneva
       details: |
         Connecting AI Innovators with problem owners to solve global challenges.
-        https://aiforgood.itu.int/
-          - Bullet point
-          - Bullet point
+        [AI for Good Global Summit](https://aiforgood.itu.int/)
     - role: Deputy Manager
       time: 2019 - Present
       company: SDG Solution Space, Geneva
@@ -85,11 +79,10 @@ experiences:
         multi-disciplinary space, where members of the public sector, 
         private sector, academia, students and other citizens can 
         collaborate and innovate solutions to problems outlined in the 
-        Sustainable Development Goals. 
+        Sustainable Development Goals.  
         Responsibilities include helping collaborators book the space, 
         organizing events and managing the space's social media.
-          - Bullet point
-          - Bullet point
+        [SDG Solution Space](https://sdgsolutionspace.org/)
     - role: Project Assistant - Climate and Energy Program
       time: 2019 - 2019
       company: Greenpeace, Beijing
@@ -99,8 +92,6 @@ experiences:
         coal-powered energy infrastructure, in order to provide policy 
         recommendations on how to both help the environment and the 
         local and Chinese economy.
-          - Bullet point
-          - Bullet point
 projects:
     title: Projects
     intro: >
