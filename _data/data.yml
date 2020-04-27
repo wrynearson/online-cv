@@ -22,8 +22,8 @@ sidebar:
     twitter: '@willrynearson'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 112797566-will-rynearson # Number-Username, e.g. 123456-alandoe
-    goodwall: will-rynearson-def0
+    # goodreads: 112797566-will-rynearson # Number-Username, e.g. 123456-alandoe
+    # goodwall: will-rynearson-def0
 
     languages:
       - idiom: English
