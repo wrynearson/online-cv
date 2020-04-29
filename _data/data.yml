@@ -55,7 +55,7 @@ education:
         Dual degree program on the UN Sustainable Development Goals (SDGs)
     - degree: Master of Public Policy
         Sustainable Development Goals (SDGs)
-      university: 🇳 Tsinghua University
+      university: 🇨🇳 Tsinghua University
       time: 2018-2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -69,17 +69,19 @@ education:
       time: 2011-2015
     - degree: Certificate
         Mandarin Chinese
-      university: 🇳  Shanghai Ocean University 上海海洋大学
+      university: 🇨🇳  Shanghai Ocean University 上海海洋大学
       time: 2016 - 2017
       details: 
         One year, full time intensive Chinese (Mandarin) language course.
-    - degree: Summer Program [`Exchange`]
+    - degree: Summer Program [Exchange]
+        
         Cultural Exchange, International and Intercultural Communication
-      university: 🇳  Lanzhou University 兰州大学
+      university: 🇨🇳  Lanzhou University 兰州大学
       time: Summer 2015
       details: 
         A month long exchange program focusing on Chinese language (Mandarin), art and cultural history, and China's modern economy.
-    - degree: Certificate of Proficiency [`Exchange`]
+    - degree: Certificate of Proficiency [Exchange]
+        
         Mechanical Engineering
       university: 🇿 University of Canterbury
       time: 2013 - 2014
@@ -89,7 +91,7 @@ education:
 experiences:
     - role: Junior Project Officer - AI for Good Global Summit
       time: 2020 - Present
-      company: International Telecommunication Union (ITU), Geneva
+      company: International Telecommunication Union (ITU) [Internship], Geneva
       details: |
         Connecting AI Innovators with problem owners to solve global challenges.
         [AI for Good Global Summit](https://aiforgood.itu.int/)
@@ -101,12 +103,12 @@ experiences:
         multi-disciplinary space, where members of the public sector, 
         private sector, academia, students and other citizens can 
         collaborate and innovate solutions to problems outlined in the 
-        Sustainable Development Goals.  
+        Sustainable Development Goals.
         Responsibilities include helping collaborators book the space, 
         organizing events and managing the space's social media.
     - role: Project Assistant - Climate and Energy Program
       time: Spring 2019
-      company: Greenpeace, Beijing
+      company: Greenpeace [Internship], Beijing
       details: |
         Analyzed China's international development projects with 
         detrimental environmental and social impacts, such as 
@@ -123,7 +125,7 @@ experiences:
         Responsible for effectively managing and creating a positive 
         and engaging classroom environment.
     - role: Study Abroad Program Coordinator - Office of International Programs
-      time: 2014 - 2016
+      time: 2015 - 2016
       company: Montana State University, Bozeman MT
       details: |
         Worked with outbound MSU students in study abroad preparation 
@@ -131,7 +133,7 @@ experiences:
         outbound communication and processed application materials.
     - role: Project Manager + Travel Health and Safety Officer
       time: 2015 - 2016
-      company: Engineers Without Borders USA (MSU Chapter) [`Volunteer`]
+      company: Engineers Without Borders (MSU Chapter) [Volunteer], Bozeman MT
       details: |
         Led a team of seven Montana State University students on an 
         eight-week engineering project assessment trip to Western Kenya. 
