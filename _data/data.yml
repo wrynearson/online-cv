@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: Chinese
-        level: Intermediate
+        level: Upper Intermediate (~HSK 5)
 
     interests:
       - item: Photography
@@ -40,20 +40,20 @@ sidebar:
         link: https://www.strava.com/athletes/7675829
 
       - item: Travel
-        link: # https://wrynearson.github.io/TestMap/
+        link: https://wrynearson.github.io/TravelMap/
 
 career-profile:
     title: Career Profile
     summary: |
       Seeking impactful roles which blend policy, science, management and communicationin order to solve problems within the SDG framework.
 education:
-    - degree: Master of Science
+    - degree: Master of Science - 
         Innovation, Human Development and Sustainability
       university: University of Geneva | 🇨🇭
       time: 2018 - 2021
       details: 
         Dual degree program on the UN Sustainable Development Goals (SDGs)
-    - degree: Master of Public Policy
+    - degree: Master of Public Policy - 
         Sustainable Development Goals (SDGs)
       university: Tsinghua University | 🇨🇳
       time: 2018-2021
@@ -63,24 +63,25 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-    - degree: Bachelor of Science
+    - degree: Bachelor of Science - 
         Mechanical Engineering
       university: Montana State University | 🇺🇲
       time: 2011-2015
-    - degree: Certificate
+    - degree: Certificate - 
         Mandarin Chinese
       university: Shanghai Ocean University 上海海洋大学 | 🇨🇳
       time: 2016 - 2017
       details: 
         One year, full time intensive Chinese (Mandarin) language course.
-    - degree: Summer Program [Exchange] - Cultural Exchange, International and Intercultural Communication
+    - degree: Summer Program [Exchange] - 
+        Cultural Exchange, International and Intercultural Communication
       university: Lanzhou University 兰州大学 | 🇨🇳
       time: Summer 2015
       details: 
         A month long exchange program focusing on Chinese language (Mandarin), art and cultural history, and China's modern economy.
-    - degree: Certificate of Proficiency [Exchange] - Mechanical Engineering
-      university:
-        University of Canterbury | 🇳🇿
+    - degree: Certificate of Proficiency [Exchange] - 
+        Mechanical Engineering
+      university: University of Canterbury | 🇳🇿
       time: 2013 - 2014
       details: 
         International student for one year. Mechanical Engineering, Chemical Engineering, and cultural studies courses.
@@ -94,7 +95,7 @@ experiences:
         [AI for Good Global Summit](https://aiforgood.itu.int/)
     - role: Deputy Manager
       time: 2019 - Present
-      company: SDG Solution Space, Geneva
+      company: SDG Solution Space | Geneva, Switzerland
       details: |
         Manages multiple facets of the SDG Solution Space, a multi-use, 
         multi-disciplinary space, where members of the public sector, 
@@ -106,7 +107,7 @@ experiences:
         organizing events and managing the space's social media.
     - role: Project Assistant - Climate and Energy Program
       time: Spring 2019
-      company: Greenpeace, Beijing # Internship
+      company: Greenpeace | Beijing, China # Internship
       details: |
         Analyzed China's international development projects with 
         detrimental environmental and social impacts, such as 
@@ -115,7 +116,7 @@ experiences:
         local and Chinese economy.
     - role: Foreign English Teacher
       time: 2017 - 2018
-      company: New Oriental Education 新东方, Beijing
+      company: New Oriental Education 新东方 | Shanghai, China
       details: |
         Helped improve Chinese elementary and middle school students’ 
         English language abilities by focusing on speaking, listening, 
@@ -124,14 +125,14 @@ experiences:
         and engaging classroom environment.
     - role: Study Abroad Program Coordinator - Office of International Programs
       time: 2015 - 2016
-      company: Montana State University, Bozeman MT
+      company: Montana State University | Bozeman, USA
       details: |
         Worked with outbound MSU students in study abroad preparation 
         and advising. Assisted with campus outreach. In charge of 
         outbound communication and processed application materials.
     - role: Project Manager + Travel Health and Safety Officer
       time: 2015 - 2016
-      company: Engineers Without Borders (MSU Chapter), Bozeman MT # Volunteer
+      company: Engineers Without Borders (MSU Chapter) | Bozeman, USA and Khwisero, Kenya # Volunteer
       details: |
         Led a team of seven Montana State University students on an 
         eight-week engineering project assessment trip to Western Kenya. 
@@ -148,7 +149,7 @@ experiences:
         transfer for subsequent projects.
     - role: Global Ambassador Internship - Office of International Programs
       time: 2014 - 2015
-      company: Montana State University, Bozeman MT # Internship
+      company: Montana State University | Bozeman USA # Internship
       details: |
         Accepted into this competitive internship after studying abroad. 
         Promoted and engaged MSU students with study abroad opportunities 
@@ -164,7 +165,7 @@ projects:
       - title: Dam Plastics
         link: https://www.twitter.com/dam_plastics
         tagline: Dam Plastics attempts to measure and monitor the flow of plastic through riverine systems by linking dam operators and citizen scientists through a procedural toolkit to create standardized, actionable data about riverine plastic waste.
-
+        
       - title: Open Seventeen
         link: https://openseventeen.org/
         tagline: O17 is a challenge-based, online interactive coaching programme to help young global innovators connect and shape good ideas into viable social innovations projects. O17 supports projects that enable grassroots public participation and citizen science through the use of open data and crowdsourcing. I helped organize and administer the outreach, selection, mentoring and coaching for the students, leveraging networking and tools to run a 100% remote educational workshop across five continents.
