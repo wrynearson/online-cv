@@ -64,6 +64,22 @@ education:
     - degree: Bachelor of Science - Mechanical Engineering
       university: Montana State University
       time: 2011-2015
+    - degree: Certificate - Mandarin Chinese
+      university: Shanghai Ocean University 上海海洋大学
+      time: 2016 - 2017
+      details: 
+        One year, full time intensive Chinese (Mandarin) language course.
+    - degree: Summer Program - Cultural Exchange, International and Intercultural Communication [Exchange]
+      university: Lanzhou University 兰州大学
+      time: Summer 2015
+      details: 
+        A month long exchange program focusing on Chinese language (Mandarin), art and cultural history, and China's modern economy.
+    - degree: Certificate of Proficiency, Mechanical Engineering [Exchange]
+      university: Lanzhou University 兰州大学
+      time: 2013 - 2014
+      details: 
+        International student for one year. Mechanical Engineering, Chemical Engineering, and cultural studies courses.
+
 experiences:
     - role: Junior Project Officer - AI for Good Global Summit
       time: 2020 - Present
@@ -92,54 +108,83 @@ experiences:
         coal-powered energy infrastructure, in order to provide policy 
         recommendations on how to both help the environment and the 
         local and Chinese economy.
+    - role: Foreign English Teacher
+      time: 2017 - 2018
+      company: New Oriental Education 新东方, Beijing
+      details: |
+        Helped improve Chinese elementary and middle school students’ 
+        English language abilities by focusing on speaking, listening, 
+        writing, critical thinking and conversational fluency skills. 
+        Responsible for effectively managing and creating a positive 
+        and engaging classroom environment.
+    - role: Study Abroad Program Coordinator - Office of International Programs
+      time: 2014 - 2016
+      company: Montana State University, Bozeman MT
+      details: |
+        Worked with outbound MSU students in study abroad preparation 
+        and advising. Assisted with campus outreach. In charge of 
+        outbound communication and processed application materials.
+    - role: Project Manager + Travel Health and Safety Officer
+      time: 2015 - 2016
+      company: Engineers Without Borders USA (MSU Chapter) [Volunteer]
+      details: |
+        Led a team of seven Montana State University students on an 
+        eight-week engineering project assessment trip to Western Kenya. 
+        Responsibilities encompassed the entire life cycle of an 
+        international engineering project. Duties before travel included 
+        project plan creation, conducting team member training workshops, 
+        health and safety review, gathering organizational support, and 
+        pre-arrival logistics management. These duties continued in 
+        Western Kenya, along with project implementation, stakeholder 
+        surveys, agile project management, conducting workshops, 
+        memorandum of understanding signings, and organizing knowledge 
+        transfer for subsequent projects.
+    - role: Global Ambassador Internship - Office of International Programs
+      time: 2014 - 2015
+      company: Montana State University, Bozeman MT
+      details: |
+        Accepted into this competitive internship after studying abroad. 
+        Promoted and engaged MSU students with study abroad opportunities 
+        through classroom presentations and campus events.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+      # You can list your side projects or open source libraries in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Dam Plastics
         link: https://www.twitter.com/dam_plastics
-        tagline: Dam Plastics attempts to measure and monitor the flow of plastic through riverine systems by linking dam operators and citizen scientists through a procedural toolkit to create standardized, actionable data about riverine plastic waste.
+        tagline: Dam Plastics attempts to measure and monitor the flow 
+        of plastic through riverine systems by linking dam operators and citizen scientists through a procedural toolkit to create standardized, actionable data about riverine plastic waste.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Open Seventeen
+        link: https://openseventeen.org/
+        tagline: O17 is a challenge-based, online interactive coaching programme to help young global innovators connect and shape good ideas into viable social innovations projects. O17 supports projects that enable grassroots public participation and citizen science through the use of open data and crowdsourcing. I helped organize and administer the outreach, selection, mentoring and coaching for the students, leveraging networking and tools to run a 100% remote educational workshop across five continents.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -154,7 +199,8 @@ skills:
       - name: Python
         level: 5%
 
+      - name: QGIS
+        level: 15%
 
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
