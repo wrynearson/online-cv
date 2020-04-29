@@ -51,13 +51,17 @@ education:
         Innovation, Human Development and Sustainability
       university: |
         University of Geneva 
+        
         🇨🇭
       time: 2018 - 2021
       details: 
         Dual degree program on the UN Sustainable Development Goals (SDGs)
     - degree: Master of Public Policy
         Sustainable Development Goals (SDGs)
-      university: Tsinghua University  🇨🇳
+      university: |
+        Tsinghua University 
+        
+        🇨🇳
       time: 2018-2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -67,11 +71,17 @@ education:
         pretium quis, sem.
     - degree: Bachelor of Science
         Mechanical Engineering
-      university: Montana State University  🇺🇲
+      university: |
+        Montana State University 
+        
+        🇺🇲
       time: 2011-2015
     - degree: Certificate
         Mandarin Chinese
-      university: Shanghai Ocean University 上海海洋大学  🇨🇳
+      university: |
+        Shanghai Ocean University 上海海洋大学 
+        
+        🇨🇳
       time: 2016 - 2017
       details: 
         One year, full time intensive Chinese (Mandarin) language course.
@@ -79,7 +89,9 @@ education:
         Summer Program [Exchange]
 
         Cultural Exchange, International and Intercultural Communication
-      university: Lanzhou University 兰州大学   🇨🇳
+      university: |
+        Lanzhou University 兰州大学 
+        🇨🇳
       time: Summer 2015
       details: 
         A month long exchange program focusing on Chinese language (Mandarin), art and cultural history, and China's modern economy.
@@ -87,7 +99,9 @@ education:
         Certificate of Proficiency [Exchange]
 
         Mechanical Engineering
-      university: University of Canterbury  🇳🇿
+      university: |
+        University of Canterbury 
+        🇳🇿
       time: 2013 - 2014
       details: 
         International student for one year. Mechanical Engineering, Chemical Engineering, and cultural studies courses.
@@ -95,7 +109,7 @@ education:
 experiences:
     - role: Junior Project Officer - AI for Good Global Summit
       time: 2020 - Present
-      company: International Telecommunication Union (ITU) [Internship], Geneva
+      company: International Telecommunication Union (ITU), Geneva # Internship
       details: |
         Connecting AI Innovators with problem owners to solve global challenges.
         [AI for Good Global Summit](https://aiforgood.itu.int/)
@@ -113,7 +127,7 @@ experiences:
         organizing events and managing the space's social media.
     - role: Project Assistant - Climate and Energy Program
       time: Spring 2019
-      company: Greenpeace [Internship], Beijing
+      company: Greenpeace, Beijing # Internship
       details: |
         Analyzed China's international development projects with 
         detrimental environmental and social impacts, such as 
@@ -138,7 +152,7 @@ experiences:
         outbound communication and processed application materials.
     - role: Project Manager + Travel Health and Safety Officer
       time: 2015 - 2016
-      company: Engineers Without Borders (MSU Chapter) [Volunteer], Bozeman MT
+      company: Engineers Without Borders (MSU Chapter), Bozeman MT # Volunteer
       details: |
         Led a team of seven Montana State University students on an 
         eight-week engineering project assessment trip to Western Kenya. 
@@ -155,7 +169,7 @@ experiences:
         transfer for subsequent projects.
     - role: Global Ambassador Internship - Office of International Programs
       time: 2014 - 2015
-      company: Montana State University, Bozeman MT
+      company: Montana State University, Bozeman MT # Internship
       details: |
         Accepted into this competitive internship after studying abroad. 
         Promoted and engaged MSU students with study abroad opportunities 
