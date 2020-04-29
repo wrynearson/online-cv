@@ -49,13 +49,13 @@ career-profile:
 education:
     - degree: Master of Science
         Innovation, Human Development and Sustainability
-      university: 🇨🇭 University of Geneva
+      university: University of Geneva  🇨🇭
       time: 2018 - 2021
       details: 
         Dual degree program on the UN Sustainable Development Goals (SDGs)
     - degree: Master of Public Policy
         Sustainable Development Goals (SDGs)
-      university: 🇨🇳 Tsinghua University
+      university: Tsinghua University  🇨🇳
       time: 2018-2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -65,25 +65,25 @@ education:
         pretium quis, sem.
     - degree: Bachelor of Science
         Mechanical Engineering
-      university: 🇺🇲 Montana State University
+      university: Montana State University  🇺🇲
       time: 2011-2015
     - degree: Certificate
         Mandarin Chinese
-      university: 🇨🇳 Shanghai Ocean University 上海海洋大学
+      university: Shanghai Ocean University 上海海洋大学  🇨
       time: 2016 - 2017
       details: 
         One year, full time intensive Chinese (Mandarin) language course.
-    - degree: > 
+    - degree: >- 
         Summer Program [Exchange]
         Cultural Exchange, International and Intercultural Communication
-      university: 🇨🇳 Lanzhou University 兰州大学
+      university: Lanzhou University 兰州大学   🇨🇳
       time: Summer 2015
       details: 
         A month long exchange program focusing on Chinese language (Mandarin), art and cultural history, and China's modern economy.
-    - degree: >
+    - degree: >-
         Certificate of Proficiency [Exchange]
         Mechanical Engineering
-      university: 🇳🇿 University of Canterbury
+      university: University of Canterbury  🇳🇿
       time: 2013 - 2014
       details: 
         International student for one year. Mechanical Engineering, Chemical Engineering, and cultural studies courses.
@@ -104,6 +104,7 @@ experiences:
         private sector, academia, students and other citizens can 
         collaborate and innovate solutions to problems outlined in the 
         Sustainable Development Goals.
+
         Responsibilities include helping collaborators book the space, 
         organizing events and managing the space's social media.
     - role: Project Assistant - Climate and Energy Program
@@ -141,7 +142,9 @@ experiences:
         international engineering project. Duties before travel included 
         project plan creation, conducting team member training workshops, 
         health and safety review, gathering organizational support, and 
-        pre-arrival logistics management. These duties continued in 
+        pre-arrival logistics management. 
+        
+        These duties continued in 
         Western Kenya, along with project implementation, stakeholder 
         surveys, agile project management, conducting workshops, 
         memorandum of understanding signings, and organizing knowledge 
