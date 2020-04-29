@@ -40,7 +40,7 @@ sidebar:
         link: https://www.strava.com/athletes/7675829
 
       - item: Travel
-        link:
+        link: # https://wrynearson.github.io/TestMap/
 
 career-profile:
     title: Career Profile
@@ -156,8 +156,7 @@ projects:
     assignments:
       - title: Dam Plastics
         link: https://www.twitter.com/dam_plastics
-        tagline: Dam Plastics attempts to measure and monitor the flow 
-        of plastic through riverine systems by linking dam operators and citizen scientists through a procedural toolkit to create standardized, actionable data about riverine plastic waste.
+        tagline: Dam Plastics attempts to measure and monitor the flow of plastic through riverine systems by linking dam operators and citizen scientists through a procedural toolkit to create standardized, actionable data about riverine plastic waste.
 
       - title: Open Seventeen
         link: https://openseventeen.org/
