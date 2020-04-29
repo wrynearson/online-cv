@@ -47,13 +47,15 @@ career-profile:
     summary: |
       Seeking impactful roles which blend policy, science, management and communicationin order to solve problems within the SDG framework.
 education:
-    - degree: Master of Science - Innovation, Human Development and Sustainability
-      university: University of Geneva
+    - degree: Master of Science
+        Innovation, Human Development and Sustainability
+      university: 🇨🇭 University of Geneva
       time: 2018 - 2021
       details: 
         Dual degree program on the UN Sustainable Development Goals (SDGs)
-    - degree: Master of Public Policy - Sustainable Development Goals (SDGs)
-      university: Tsinghua University
+    - degree: Master of Public Policy
+        Sustainable Development Goals (SDGs)
+      university: 🇳 Tsinghua University
       time: 2018-2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -61,21 +63,25 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-    - degree: Bachelor of Science - Mechanical Engineering
-      university: Montana State University
+    - degree: Bachelor of Science
+        Mechanical Engineering
+      university: 🇸 Montana State University
       time: 2011-2015
-    - degree: Certificate - Mandarin Chinese
-      university: Shanghai Ocean University 上海海洋大学
+    - degree: Certificate
+        Mandarin Chinese
+      university: 🇳  Shanghai Ocean University 上海海洋大学
       time: 2016 - 2017
       details: 
         One year, full time intensive Chinese (Mandarin) language course.
-    - degree: Summer Program - Cultural Exchange, International and Intercultural Communication [Exchange]
-      university: Lanzhou University 兰州大学
+    - degree: Summer Program [`Exchange`]
+        Cultural Exchange, International and Intercultural Communication
+      university: 🇳  Lanzhou University 兰州大学
       time: Summer 2015
       details: 
         A month long exchange program focusing on Chinese language (Mandarin), art and cultural history, and China's modern economy.
-    - degree: Certificate of Proficiency, Mechanical Engineering [Exchange]
-      university: Lanzhou University 兰州大学
+    - degree: Certificate of Proficiency [`Exchange`]
+        Mechanical Engineering
+      university: 🇿 University of Canterbury
       time: 2013 - 2014
       details: 
         International student for one year. Mechanical Engineering, Chemical Engineering, and cultural studies courses.
@@ -98,9 +104,8 @@ experiences:
         Sustainable Development Goals.  
         Responsibilities include helping collaborators book the space, 
         organizing events and managing the space's social media.
-        [SDG Solution Space](https://sdgsolutionspace.org/)
     - role: Project Assistant - Climate and Energy Program
-      time: 2019 - 2019
+      time: Spring 2019
       company: Greenpeace, Beijing
       details: |
         Analyzed China's international development projects with 
@@ -126,7 +131,7 @@ experiences:
         outbound communication and processed application materials.
     - role: Project Manager + Travel Health and Safety Officer
       time: 2015 - 2016
-      company: Engineers Without Borders USA (MSU Chapter) [Volunteer]
+      company: Engineers Without Borders USA (MSU Chapter) [`Volunteer`]
       details: |
         Led a team of seven Montana State University students on an 
         eight-week engineering project assessment trip to Western Kenya. 
