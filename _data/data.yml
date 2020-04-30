@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: Chinese
-        level: Upper Intermediate (~HSK 5)
+        level: Upper Intermediate ~ HSK 5
 
     interests:
       - item: Photography
@@ -89,7 +89,7 @@ education:
 experiences:
     - role: Junior Project Officer - AI for Good Global Summit
       time: 2020 - Present
-      company: International Telecommunication Union (ITU), Geneva # Internship
+      company: International Telecommunication Union (ITU) | Geneva, Switzerland # Internship
       details: |
         Connecting AI Innovators with problem owners to solve global challenges.
         [AI for Good Global Summit](https://aiforgood.itu.int/)
