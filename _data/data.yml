@@ -32,6 +32,9 @@ sidebar:
       - idiom: Chinese
         level: Upper Intermediate ~ HSK 5
 
+      - idiom: French
+        level: Beginner (A1)        
+
     interests:
       - item: Photography
         link: https://wrynearson.github.io
@@ -91,7 +94,7 @@ experiences:
       time: 2020 - Present
       company: International Telecommunication Union (ITU) | Geneva, Switzerland # Internship
       details: |
-        Connecting AI Innovators with problem owners to solve global challenges.
+        Connected AI Innovators with problem owners to solve global challenges through the AI for Good Global Summit. Engaged in innovative summit planning and organization to maximize effectiveness. Leveraged telecommunication tools and environmental & psychological research to successfully transition the Summit online due to COVID-19.
         [AI for Good Global Summit](https://aiforgood.itu.int/)
     - role: Deputy Manager
       time: 2019 - Present
@@ -203,11 +206,20 @@ skills:
       - name: Microsoft Office
         level: 95%
 
+      - name: Research
+        level: 80%
+
+      - name: Project Management
+        level: 50%
+
       # - name: Python
       #   level: 5%
 
-      - name: QGIS
+      - name: GIS
         level: 15%
+        
+      - name: Python
+        level: 5%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
