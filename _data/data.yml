@@ -90,11 +90,8 @@ education:
         International student for one year. Mechanical Engineering, Chemical Engineering, and cultural studies courses.
 
 experiences:
-    - role: Research Associate
-      time: 2020 - 2021
-      company: [Resurgence](http://www.resurgence.io) | London, U.K.
     - role: Junior Project Officer - AI for Good Global Summit
-      time: 2020 - 2020
+      time: 2020 - Present
       company: International Telecommunication Union (ITU) | Geneva, Switzerland # Internship
       details: |
         Connected AI Innovators with problem owners to solve global challenges through the AI for Good Global Summit. Engaged in innovative summit planning and organization to maximize effectiveness. Leveraged telecommunication tools and environmental & psychological research to successfully transition the Summit online due to COVID-19.
