@@ -30,10 +30,10 @@ sidebar:
         level: Native
 
       - idiom: Chinese
-        level: Upper Intermediate ~ HSK 5
+        level: Working Proficiency (~ HSK 5 / B2)
 
       - idiom: French
-        level: Beginner - A1        
+        level: Limited Working Proficiency        
 
     interests:
       - item: Photography
@@ -48,7 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Seeking impactful roles which blend policy, science, management and communicationin order to solve problems within the SDG framework.
+      Seeking impactful roles which blend policy, science, management and 
+      communicationin order to solve problems within the SDG framework.
 education:
     - degree: Master of Science - 
         Innovation, Human Development and Sustainability
@@ -81,20 +82,39 @@ education:
       university: Lanzhou University 兰州大学 | 🇨🇳
       time: Summer 2015
       details: 
-        A month long exchange program focusing on Chinese language (Mandarin), art and cultural history, and China's modern economy.
+        A month long exchange program focusing on Chinese language (Mandarin), 
+        art and cultural history, and China's modern economy.
     - degree: Certificate of Proficiency [Exchange] - 
         Mechanical Engineering
       university: University of Canterbury | 🇳🇿
       time: 2013 - 2014
       details: 
-        International student for one year. Mechanical Engineering, Chemical Engineering, and cultural studies courses.
+        International student for one year. Mechanical Engineering, Chemical 
+        Engineering, and cultural studies courses.
 
 experiences:
+    - role: Research Associate
+      time: 2020 - 2021
+      company: Resurgence
+      details: |
+        Lead researching and writing content for the Open Data Infrastructure 
+        for Resilience Cities (ODIR) republication, an interactive showcase of how 
+        cities and urban areas can use open data for climate resilience.
+
+        ODIR is an EIT Climate-KIC (EU’s leading climate innovation initiative) funded project and is 
+        synchronized with the launch of UN Disaster Risk Reduction (UNDRR)'s Making Cities Resilient 
+        2030 global campaign.
+
+        Successfully increased the scale and scope of case studies through data-driven approaches, 
+        ensuring increased diversity and continuity of examples which urban leaders can draw upon.
     - role: Junior Project Officer - AI for Good Global Summit
       time: 2020 - Present
       company: International Telecommunication Union (ITU) | Geneva, Switzerland # Internship
       details: |
-        Connected AI Innovators with problem owners to solve global challenges through the AI for Good Global Summit. Engaged in innovative summit planning and organization to maximize effectiveness. Leveraged telecommunication tools and environmental & psychological research to successfully transition the Summit online due to COVID-19.
+        Connected AI Innovators with problem owners to solve global challenges through the AI for 
+        Good Global Summit. Engaged in innovative summit planning and organization to maximize 
+        effectiveness. Leveraged telecommunication tools and environmental & psychological research 
+        to successfully transition the Summit online due to COVID-19.
         [AI for Good Global Summit](https://aiforgood.itu.int/)
     - role: Deputy Manager
       time: 2019 - Present
@@ -212,14 +232,11 @@ skills:
       - name: Project Management
         level: 50%
 
-      # - name: Python
-      #   level: 5%
-
       - name: GIS
         level: 15%
         
       - name: Python
-        level: 5%
+        level: 35%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
